@@ -8,5 +8,5 @@ import { Response, Request, NextFunction } from "express";
  * List of API examples.
  */
 export const getApi = (req: Request, res: Response) => {
-    res.json({status: 'success', message: "hello from service"})
+    res.json({status: "success", message: "hello from service"});
 };
