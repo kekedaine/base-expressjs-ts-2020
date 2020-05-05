@@ -1,12 +1,8 @@
 {
-    "name": "express-typescript-starter",
-    "version": "0.1.0",
-    "description": "A starting point for Node.js express apps with TypeScript",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Microsoft/TypeScript-Node-Starter"
-    },
-    "author": "Bowden Kelly",
+    "name": "api-express-typescript-starter",
+    "version": "1.0.1",
+    "description": "A starting point for Node.js express api apps with TypeScript",
+    "author": "Dainv",
     "license": "MIT",
     "scripts": {
         "start": "npm run serve",
